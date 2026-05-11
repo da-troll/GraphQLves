@@ -10,7 +10,7 @@ A Chrome DevTools extension for inspecting and debugging GraphQL network request
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/YOUR_EXTENSION_ID)](https://chrome.google.com/webstore/detail/graphqlves/YOUR_EXTENSION_ID)
 -->
 
-![GraphQLves Screenshot](store-assets/01-dark-request-tab.png)
+![GraphQLves Screenshot](screenshots/01-dark-request-tab.png)
 
 ## Installation
 
