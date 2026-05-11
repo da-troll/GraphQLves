@@ -29,3 +29,6 @@ CLAUDE.md
 
 # Release packages
 *.zip
+
+# Archived icons
+icons-archive/
