@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-GraphQeLves is a Chrome DevTools extension for inspecting and debugging GraphQL network requests. It captures real-time GraphQL traffic and provides request/response inspection, filtering, and batch export functionality.
+GraphQLves is a Chrome DevTools extension for inspecting and debugging GraphQL network requests. It captures real-time GraphQL traffic and provides request/response inspection, filtering, and batch export functionality.
 
 ## Build Commands
 

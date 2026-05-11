@@ -34,7 +34,7 @@ export interface NetworkEvent {
 }
 
 export interface ExportBundle {
-  meta: { tool: "GraphQeLves", version: "1.0", exportedAt: string };
+  meta: { tool: "GraphQLves", version: "1.1", exportedAt: string };
   events: Array<{
     request: { url: string, method: string, headers: any, body: any, curl: string };
     response: { status: number, headers: any, body: any };

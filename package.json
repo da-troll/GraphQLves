@@ -1,13 +1,13 @@
 {
-  "name": "graphqelves",
+  "name": "graphqlves",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "package": "npm run build && cd dist && zip -r ../graphqelves-v1.0.0.zip . -x '*.DS_Store' && cd .. && echo 'Package created: graphqelves-v1.0.0.zip'"
+    "package": "npm run build && cd dist && zip -r ../graphqlves-v1.1.0.zip . -x '*.DS_Store' && cd .. && echo 'Package created: graphqlves-v1.1.0.zip'"
   },
   "dependencies": {
     "react": "^18.2.0",

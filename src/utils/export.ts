@@ -18,8 +18,8 @@ const redactHeaders = (headers: Record<string, string>): Record<string, string> 
 export const createExportBundle = (events: NetworkEvent[]): ExportBundle => {
   return {
     meta: {
-      tool: "GraphQeLves",
-      version: "1.0",
+      tool: "GraphQLves",
+      version: "1.1",
       exportedAt: new Date().toISOString()
     },
     events: events.map(e => ({
@@ -44,7 +44,7 @@ export const downloadBundle = (bundle: ExportBundle) => {
   const url = URL.createObjectURL(blob);
   const a = document.createElement('a');
   a.href = url;
-  a.download = `graphqelves-export-${Date.now()}.json`;
+  a.download = `graphqlves-export-${Date.now()}.json`;
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);

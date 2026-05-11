@@ -1,14 +1,14 @@
-# Privacy Policy for GraphQeLves
+# Privacy Policy for GraphQLves
 
 **Last Updated:** January 2025
 
 ## Overview
 
-GraphQeLves is a Chrome DevTools extension for inspecting GraphQL network requests. We are committed to protecting your privacy and being transparent about our practices.
+GraphQLves is a Chrome DevTools extension for inspecting GraphQL network requests. We are committed to protecting your privacy and being transparent about our practices.
 
 ## Data Collection
 
-**GraphQeLves does not collect, store, or transmit any user data.**
+**GraphQLves does not collect, store, or transmit any user data.**
 
 - No personal information is collected
 - No analytics or tracking
@@ -17,7 +17,7 @@ GraphQeLves is a Chrome DevTools extension for inspecting GraphQL network reques
 
 ## Data Storage
 
-All data processed by GraphQeLves remains entirely local to your browser:
+All data processed by GraphQLves remains entirely local to your browser:
 
 - **Network request data** is captured only within your active DevTools session
 - **Clipboard operations** occur only when you explicitly click "Copy" buttons
@@ -26,7 +26,7 @@ All data processed by GraphQeLves remains entirely local to your browser:
 
 ## Permissions Explained
 
-GraphQeLves requires minimal permissions:
+GraphQLves requires minimal permissions:
 
 | Permission | Purpose |
 |------------|---------|
@@ -35,7 +35,7 @@ GraphQeLves requires minimal permissions:
 
 ## Third-Party Services
 
-GraphQeLves does not integrate with any third-party services, analytics platforms, or external APIs.
+GraphQLves does not integrate with any third-party services, analytics platforms, or external APIs.
 
 ## Data Security
 
@@ -48,9 +48,9 @@ If we make changes to this privacy policy, we will update the "Last Updated" dat
 ## Contact
 
 For questions about this privacy policy or the extension, please open an issue at:
-https://github.com/da-troll/GraphQeLves/issues
+https://github.com/da-troll/GraphQLves/issues
 
 ## Open Source
 
-GraphQeLves is open source. You can review the complete source code at:
-https://github.com/da-troll/GraphQeLves
+GraphQLves is open source. You can review the complete source code at:
+https://github.com/da-troll/GraphQLves

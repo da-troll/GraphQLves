@@ -6,7 +6,7 @@ Use this content when submitting to the Chrome Web Store.
 
 ## Basic Information
 
-**Extension Name:** GraphQeLves
+**Extension Name:** GraphQLves
 
 **Short Description (132 chars max):**
 ```
@@ -23,7 +23,7 @@ Character count: 124
 ## Detailed Description
 
 ```
-GraphQeLves is a powerful Chrome DevTools extension designed for developers working with GraphQL APIs. It provides real-time monitoring and inspection of all GraphQL network traffic with a clean, intuitive interface.
+GraphQLves is a powerful Chrome DevTools extension designed for developers working with GraphQL APIs. It provides real-time monitoring and inspection of all GraphQL network traffic with a clean, intuitive interface.
 
 KEY FEATURES
 
@@ -97,12 +97,12 @@ Capture these screenshots at 1280x800 resolution:
 
 ## Additional Settings
 
-**Website:** https://github.com/da-troll/GraphQeLves
+**Website:** https://github.com/da-troll/GraphQLves
 
-**Support URL:** https://github.com/da-troll/GraphQeLves/issues
+**Support URL:** https://github.com/da-troll/GraphQLves/issues
 
 **Privacy Policy URL:**
-https://trollefsen.com/graphqelves/privacy-policy.html
+https://trollefsen.com/graphqlves/privacy-policy.html
 
 **Regions:** All regions
 

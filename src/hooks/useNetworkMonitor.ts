@@ -348,7 +348,7 @@ export const useNetworkMonitor = () => {
             'Content-Type': 'application/json',
             'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...',
             'X-Request-ID': generateId(),
-            'User-Agent': 'GraphQeLves/1.0'
+            'User-Agent': 'GraphQLves/1.1'
           },
           requestBodyRaw: JSON.stringify({ query: mockOp.query, variables: mockOp.variables }),
           graphql: {

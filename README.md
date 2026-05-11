@@ -1,4 +1,4 @@
-# GraphQeLves
+# GraphQLves
 
 A Chrome DevTools extension for inspecting and debugging GraphQL network requests.
 
@@ -7,17 +7,17 @@ A Chrome DevTools extension for inspecting and debugging GraphQL network request
 ![License MIT](https://img.shields.io/badge/License-MIT-yellow)
 
 <!-- TODO: Uncomment when published to Chrome Web Store
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/YOUR_EXTENSION_ID)](https://chrome.google.com/webstore/detail/graphqelves/YOUR_EXTENSION_ID)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/YOUR_EXTENSION_ID)](https://chrome.google.com/webstore/detail/graphqlves/YOUR_EXTENSION_ID)
 -->
 
-![GraphQeLves Screenshot](store-assets/01-dark-request-tab.png)
+![GraphQLves Screenshot](store-assets/01-dark-request-tab.png)
 
 ## Installation
 
 ### Chrome Web Store (Recommended)
 
 <!-- TODO: Update with actual Chrome Web Store link when published
-Install directly from the [Chrome Web Store](https://chrome.google.com/webstore/detail/graphqelves/YOUR_EXTENSION_ID).
+Install directly from the [Chrome Web Store](https://chrome.google.com/webstore/detail/graphqlves/YOUR_EXTENSION_ID).
 -->
 
 *Coming soon to the Chrome Web Store!*
@@ -40,7 +40,7 @@ See [Development Installation](#development-installation) below.
 ## Usage
 
 1. Open Chrome DevTools (`Ctrl+Shift+I` / `Cmd+Opt+I`)
-2. Navigate to the **GraphQeLves** panel
+2. Navigate to the **GraphQLves** panel
 3. Browse any website that makes GraphQL requests
 4. Click on a request to inspect details
 
@@ -50,11 +50,11 @@ Select multiple requests using `Shift+Click` (range) or `Cmd/Ctrl+Click` (indivi
 
 ## Keyboard Navigation
 
-Chrome doesn't allow extensions to register custom DevTools shortcuts, but you can quickly access GraphQeLves using the Command Menu:
+Chrome doesn't allow extensions to register custom DevTools shortcuts, but you can quickly access GraphQLves using the Command Menu:
 
 1. **Open DevTools:** `Ctrl+Shift+I` (Windows/Linux) or `Cmd+Opt+I` (Mac)
 2. **Open Command Menu:** `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (Mac)
-3. **Type** `g` or `graph` and press **Enter** to jump to the GraphQeLves panel
+3. **Type** `g` or `graph` and press **Enter** to jump to the GraphQLves panel
 
 Alternatively, use `Ctrl+[` / `Ctrl+]` to cycle through DevTools panels.
 
@@ -80,8 +80,8 @@ When running `npm run dev` outside of Chrome DevTools, mock GraphQL events are g
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/da-troll/GraphQeLves.git
-   cd GraphQeLves
+   git clone https://github.com/da-troll/GraphQLves.git
+   cd GraphQLves
    ```
 
 2. Install dependencies:
@@ -102,7 +102,7 @@ When running `npm run dev` outside of Chrome DevTools, mock GraphQL events are g
 
 ## Privacy
 
-GraphQeLves operates entirely locally within your browser. No data is collected, transmitted, or stored externally. See [PRIVACY_POLICY.md](PRIVACY_POLICY.md) for details.
+GraphQLves operates entirely locally within your browser. No data is collected, transmitted, or stored externally. See [PRIVACY_POLICY.md](PRIVACY_POLICY.md) for details.
 
 ## License
 

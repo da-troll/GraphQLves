@@ -3,11 +3,11 @@
 
 // @ts-ignore
 chrome.devtools.panels.create(
-  "GraphQeLves",
+  "GraphQLves",
   "", // Icon path (optional)
   "index.html", // The HTML file to load into the panel
   (_panel: any) => {
     // Code to run when the panel is created
-    console.log("GraphQeLves panel created successfully");
+    console.log("GraphQLves panel created successfully");
   }
 );
