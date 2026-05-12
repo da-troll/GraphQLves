@@ -35,3 +35,6 @@ icons-archive/
 
 # Local-only store listing copy
 STORE_LISTING.md
+
+# Playwright MCP screenshots
+.playwright-mcp/
